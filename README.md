@@ -42,7 +42,8 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=000000&logoColor=FFCC00&labelColor=&style=for-the-badge" height="35" alt="codeforces logo" />
-  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=2DB55D&logoColor=000000&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"
+  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=2DB55D&logoColor=000000&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
+  <img src="https://img.shields.io/static/v1?message=Orcid&logo=orcid&label=&color=2DB55D&logoColor=000000&labelColor=&style=for-the-badge" height="35" alt="orcid logo" />
 </div>
 
 
@@ -63,6 +64,6 @@ I'm a quantum computing researcher  <img src="https://media.giphy.com/media/WUlp
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/poliroika/poliroika/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
