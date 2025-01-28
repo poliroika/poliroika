@@ -1,19 +1,13 @@
-<h2 align="left">Hi! My name is Fominoshka</h2>
 
-###
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
+
+<h2 align="left">Hi 👋! My name is Fominoshka</h2>
 
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=poliroika&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poliroika&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -50,6 +44,20 @@
   <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=000000&logoColor=FFCC00&labelColor=&style=for-the-badge" height="35" alt="codeforces logo" />
   <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=2DB55D&logoColor=000000&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"
 </div>
+
+
+### :man_technologist: About me:
+
+---
+
+I'm a quantum computing researcher  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+---
+
+- :telescope: I work on quantum algorithms as a developer and do research in this area.
+- :seedling: I study machine learning, neural networks, quantum computing and write papers.
+- :zap: In my spare time I solve problems on Codeforces/Leetcode and read technical articles.
+- :mailbox: Open to suggestions
 
 ###
 
