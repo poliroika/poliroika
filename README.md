@@ -1,6 +1,10 @@
-<h2 align="left">Hi 👋! My name is Fominoshka and I'm a human</h2>
+<h2 align="left">Hi! My name is Fominoshka</h2>
 
 ###
+
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGo0cncxaDdrcnR3eXF5NHRzdnd3dDd5dnBvcmVkc3N2NjQxYzVqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jzuSsejVh8EYRfdOTz/giphy.gif)" width="100"/>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
