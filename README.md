@@ -11,6 +11,15 @@
 
 ###
 
+<h2 align="left">My CV</h2>
+<div align="left">
+  <a href="https://github.com/poliroika/poliroika/raw/main/resume2.pdf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Download%20CV&logo=pdf&label=&color=FF4F4F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Download CV" />
+  </a>
+</div>
+
+###
+
 <h2 align="left">My skills</h2>
 
 ###
