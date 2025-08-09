@@ -76,7 +76,7 @@
 
 ---
 
-I'm aData Scientist  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I'm a Data Scientist  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 ---
 - :computer: I am currently developing RAG at Sberbank
