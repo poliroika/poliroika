@@ -76,11 +76,11 @@
 
 ---
 
-I'm a quantum computing researcher  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I'm aData Scientist  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 ---
-
-- :telescope: I work on quantum algorithms as a developer and do research in this area.
+- :computer: I am currently developing RAG at Sberbank
+- :telescope: In my free time, I work on quantum algorithms as a developer and conduct research in this field.
 - :seedling: I study machine learning, neural networks, quantum computing and write papers.
 - :zap: In my spare time I solve problems on Codeforces/Leetcode and read technical articles.
 - :mailbox: Open to suggestions
