@@ -1,24 +1,18 @@
 <h2 align="left">Hi 👋! My name is Fominoshka</h2>
 
-###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poliroika&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poliroika&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=poliroika&show_icons=true&theme=dark&hide_border=false&rank_icon=github&cache_seconds=86400" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poliroika&layout=compact&langs_count=8&theme=dark&hide_border=false&cache_seconds=86400" height="150" alt="Top languages" />
 </div>
 
-###
+---
 
 <h2 align="left">My CV</h2>
-<div align="left">
-  <a href="https://github.com/poliroika/poliroika/raw/main/Resume_DS_Belov_Vitalii.pdf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Download%20CV%20(EN)&logo=pdf&label=&color=FF4F4F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Download CV EN" />
-  </a>
-  <a href="https://github.com/poliroika/poliroika/raw/main/Резюме_DS_Белов_Виталий.pdf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Скачать%20Резюме%20(RU)&logo=pdf&label=&color=4F86FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Скачать Резюме RU" />
-  </a>
-</div>
 
-###
+[![Download CV (EN)](https://img.shields.io/badge/Resume%20(EN)-PDF-FF4F4F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/poliroika/poliroika/raw/main/Resume_DS_Belov_Vitalii.pdf)
+[![Скачать резюме (RU)](https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20(RU)-PDF-4F86FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/poliroika/poliroika/raw/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_DS_%D0%91%D0%B5%D0%BB%D0%BE%D0%B2_%D0%92%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B9.pdf)
+
+---
 
 <h2 align="left">My skills</h2>
 
@@ -46,6 +40,8 @@
   </a>
 </div>
 
+---
+
 <h2 align="left">My links</h2>
 
 <div align="left">
@@ -66,15 +62,14 @@
   </a>
 </div>
 
-### :man_technologist: About me:
-
 ---
 
-I'm a Data Scientist  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+### :man_technologist: About me
 
----
-- :computer: I am currently developing RAG at Sberbank
-- :telescope: In my free time, I work on quantum algorithms as a developer and conduct research in this field.
-- :seedling: I study machine learning, neural networks, quantum computing and write papers.
-- :zap: In my spare time I solve problems on Codeforces/Leetcode and read technical articles.
+I'm a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+- :computer: I am currently developing RAG at Sberbank  
+- :telescope: In my free time, I work on quantum algorithms as a developer and conduct research in this field  
+- :seedling: I study machine learning, neural networks, quantum computing and write papers  
+- :zap: In my spare time I solve problems on Codeforces/Leetcode and read technical articles  
 - :mailbox: Open to suggestions
