@@ -1,6 +1,3 @@
-
-
-
 <h2 align="left">Hi 👋! My name is Fominoshka</h2>
 
 ###
@@ -13,16 +10,17 @@
 
 <h2 align="left">My CV</h2>
 <div align="left">
-  <a href="https://github.com/poliroika/poliroika/raw/main/resume2.pdf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Download%20CV&logo=pdf&label=&color=FF4F4F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Download CV" />
+  <a href="https://github.com/poliroika/poliroika/raw/main/Resume_DS_Belov_Vitalii.pdf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Download%20CV%20(EN)&logo=pdf&label=&color=FF4F4F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Download CV EN" />
+  </a>
+  <a href="https://github.com/poliroika/poliroika/raw/main/Резюме_DS_Белов_Виталий.pdf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Скачать%20Резюме%20(RU)&logo=pdf&label=&color=4F86FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Скачать Резюме RU" />
   </a>
 </div>
 
 ###
 
 <h2 align="left">My skills</h2>
-
-###
 
 <div align="left">
   <a href="https://numpy.org/doc/" target="_blank">
@@ -48,10 +46,7 @@
   </a>
 </div>
 
-
 <h2 align="left">My links</h2>
-
-###
 
 <div align="left">
   <a href="mailto:vitalii.belof@gmail.com" target="_blank">
@@ -71,7 +66,6 @@
   </a>
 </div>
 
-
 ### :man_technologist: About me:
 
 ---
@@ -84,5 +78,3 @@ I'm a Data Scientist  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - :seedling: I study machine learning, neural networks, quantum computing and write papers.
 - :zap: In my spare time I solve problems on Codeforces/Leetcode and read technical articles.
 - :mailbox: Open to suggestions
-
-###
