@@ -9,7 +9,7 @@
 
 <h2 align="left">My CV</h2>
 
-[![Download CV (EN)](https://img.shields.io/badge/Resume%20(EN)-PDF-FF4F4F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/poliroika/poliroika/raw/main/Resume_DS_Belov_Vitalii.pdf)
+[![Download CV (EN)](https://img.shields.io/badge/Resume%20(EN)-PDF-FF4F4F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/poliroika/poliroika/raw/main/Resume_AI_ML_Engineer_Belov_Vitalii.pdf)
 [![Скачать резюме (RU)](https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20(RU)-PDF-4F86FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/poliroika/poliroika/raw/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_DS_%D0%91%D0%B5%D0%BB%D0%BE%D0%B2_%D0%92%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B9.pdf)
 
 ---
