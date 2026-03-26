@@ -66,10 +66,10 @@
 
 ### :man_technologist: About me
 
-I'm a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I'm an AI Research Engineer from Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :computer: I am currently developing RAG at Sberbank  
-- :telescope: In my free time, I work on quantum algorithms as a developer and conduct research in this field  
-- :seedling: I study machine learning, neural networks, quantum computing and write papers  
-- :zap: In my spare time I solve problems on Codeforces/Leetcode and read technical articles  
-- :mailbox: Open to suggestions
+- :computer: Currently working on LLM systems, RAG, and multi-agent AI at Sberbank
+- :microscope: Focused on AI research, including retrieval-augmented systems, agent orchestration, and low-latency AI
+- :seedling: Interested in machine learning, neural networks, reinforcement learning, and quantum computing
+- :zap: In my free time, I solve problems on Codeforces/LeetCode and read technical papers and articles
+- :mailbox: Open to collaborations and interesting opportunities
